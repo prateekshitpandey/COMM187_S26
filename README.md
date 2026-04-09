@@ -1,4 +1,4 @@
-![COMM187 Course Image](courseimage/COMM187_S26_Canvas_Syllabus.png)
+![COMM187 Course Image](zcourseimage/COMM187_S26_Canvas_Syllabus.png)
 
 # COMM187 Data Science in Communication Research
 Materials and Python notebooks for COMM 187 Data Science in Communication Research offered at UC Santa Barbara.
